@@ -112,6 +112,13 @@ main{
     font-weight: 700;
 }
 
+/* fact styles */
+.fact title{
+    font-size: 3rem;
+    font-weight: 700;
+    color: #131313;
+}
+
 
 
 /* responsive media query styles */
